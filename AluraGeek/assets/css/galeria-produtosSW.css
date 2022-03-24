@@ -1,0 +1,17 @@
+.secaoStarWars__principal {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 4rem 2rem 5rem;
+}
+
+.secaoStarWars__titulo {
+    font-size: 30px;
+    font-weight: bold;
+    color: #464646;
+}
+
+.secaoStarWars__verTudo {
+    text-decoration: none;
+    color: #2a7ae4;
+    font-weight: bold;
+}
