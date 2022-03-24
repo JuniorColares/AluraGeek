@@ -1,11 +1,11 @@
 .secaoStarWars__principal {
     display: flex;
     justify-content: space-between;
-    margin: 4rem 4rem 2rem 5rem;
+    margin: 4rem 152px 2rem 152px;
 }
 
 .secaoStarWars__titulo {
-    font-size: 30px;
+    font-size: 32px;
     font-weight: bold;
     color: #464646;
 }
@@ -13,5 +13,49 @@
 .secaoStarWars__verTudo {
     text-decoration: none;
     color: #2a7ae4;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.secaoStarWars__produtos {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 152px 64px 152px;
+}
+
+.secaoStarWars__produto {
+    margin-right: 16px;
+}
+
+.imagemProduto {
+    height: 176px;
+    width: 174px;
+    object-fit: cover;
+}
+
+.ultimoProduto {
+    margin-right: 0;
+}
+
+.descricaoProduto {
+    font-size: 14px;
+    margin: 8px 0;
+    color: #464646;
+}
+
+.precoProduto {
+    font-size: 16px;
+    font-weight: bold;
+    color: #464646;
+}
+
+.verProduto {
+    margin-top: 8px;
+}
+
+.linkProduto {
+    text-decoration: none;
+    font-size: 16px;
+    color: #2A7AE4;
     font-weight: bold;
 }

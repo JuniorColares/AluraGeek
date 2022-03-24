@@ -1,0 +1,65 @@
+.rodape {
+    background-color: #EAF2FD;
+    display: flex;
+    justify-content: center;
+    padding: 64px 0;
+    height: 368px;
+}
+
+.pdd {
+    width: 1136px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rodape__faleConosco {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.qsn {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.qsn__link {
+    text-decoration: none;
+    color: #464646;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.faleConosco {
+    font-size: 16px;
+    color: #464646;
+    font-weight: 700;
+}
+
+.faleConoscoNome {
+    height: 56px;
+    width: 560px;
+    padding: 0 0 10px 12px;
+    font-size: 12px;
+}
+
+.faleConoscoMensagem {
+    height: 82px;
+    width: 560px;
+    font-size: 20px;
+    padding:0 0 15px 12px;
+}
+
+input::placeholder {
+    color: #A2A2A2;
+}
+
+.faleConoscoBotao {
+    width: 165px;
+    height: 61px;
+    font-size: 16px;
+    background-color: #2A7AE4;
+    color: #fff;
+    border: none;
+}

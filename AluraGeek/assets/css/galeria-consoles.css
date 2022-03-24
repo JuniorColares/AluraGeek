@@ -1,0 +1,28 @@
+.secaoConsole__principal {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 152px 2rem 152px;
+}
+
+.secaoConsole__titulo {
+    font-size: 32px;
+    font-weight: bold;
+    color: #464646;
+}
+
+.secaoConsole__verTudo {
+    text-decoration: none;
+    color: #2a7ae4;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.secaoConsole__produtos {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 152px 64px 152px;
+}
+
+.secaoConsole__produto {
+    margin-right: 16px;
+}

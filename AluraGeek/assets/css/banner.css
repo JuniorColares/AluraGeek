@@ -1,5 +1,6 @@
 .bannerPromocional {
     background-image: url('../imagens/banner-image.png');
+    background-size: cover;
     height: 352px;
     display: flex;
     flex-direction: column;
@@ -7,23 +8,24 @@
 }
 
 .bannerPromocional__textoPrincipal {
-    margin: 0 0 1rem 8rem;
+    margin: 0 152px 1rem 152px;
     font-size: 52px;
     color: #fff;
 }
 
 .bannerPromocional__textoSecundario {
-    margin:0 0 0.75rem 8rem;
-    font-size: 20px;
+    margin:0 152px 0.75rem 152px;
+    font-size: 22px;
     color: #fff;
     font-weight: bold;
 }
 
 .bannerPromocional__botao {
-    margin: 0 0 3rem 8rem;
+    margin: 0 152px 3rem 152px;
     background-color: #2a7ae4;
     color: #fff;
     border: none;
-    width: 125px;
-    height: 40px;
+    width: 130px;
+    height: 51px;
+    font-size: 16px;
 }

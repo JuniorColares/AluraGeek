@@ -1,0 +1,12 @@
+.creditos {
+    text-align: center;
+    padding: 32px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #464646;
+}
+
+.creditosLink {
+    text-decoration: none;
+    color: #464646;
+}
