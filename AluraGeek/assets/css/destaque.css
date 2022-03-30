@@ -1,0 +1,32 @@
+.produto__destaque {
+    display: flex;
+    margin: 64px 152px;
+}
+
+.imagemDestaque {
+    width: 560px;
+    height: 403px;
+}
+
+.descricaoProdutoDestaque {
+    margin: auto 0 auto 16px;
+}
+
+.nomeDestaque {
+    font-size: 52px;
+    color: #464646;
+    margin-bottom: 8px;
+}
+
+.precoDestaque {
+    font-size: 16px;
+    font-weight: bold;
+    color: #464646;
+    margin-bottom: 8px;
+
+}
+
+.descricaoDestaque {
+    font-size: 16px;
+    color: #464646;
+}
